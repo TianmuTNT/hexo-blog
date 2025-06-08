@@ -25,7 +25,7 @@ live2d_settings['tipsMessage']          = 'waifu-tips.json';            // 同�
 live2d_settings['hitokotoAPI']          = 'lwl12.com';                  // 一言 API，可选 'lwl12.com', 'hitokoto.cn', 'jinrishici.com'(古诗词)
 
 // 默认模型
-live2d_settings['modelId']              = 7;            // 默认模型 ID，可在 F12 控制台找到
+live2d_settings['modelId']              = 1;            // 默认模型 ID，可在 F12 控制台找到
 live2d_settings['modelTexturesId']      = 48;           // 默认材质 ID，可在 F12 控制台找到
 
 // 工具栏设置
